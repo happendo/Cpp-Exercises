@@ -1,0 +1,16 @@
+var
+m, g, v, k: numérico
+inicio
+escreva ("Defina massa:")
+ler(m)
+escreva ("Defina gravidade:")
+ler(g)
+escreva ("Defina velocidade:")
+ler(v)
+declare k=m*g/v^2 numérico
+se (k == 0,109375) entao
+    escreva("O corpo em queda livre é o mesmo da nota de aula 1 e K = ", k)
+senao
+    escreva("O valor de K é igual a ", k)
+fimse
+fim

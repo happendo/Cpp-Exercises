@@ -1,0 +1,1 @@
+Criar variáveis "m","g","v" todas requisitando valores ao usuário, e por fim criar varíavel "k" recebendo m*g/v². Caso k for igual a 0,109375 retornar: "O corpo em queda livre é idêntico ao da nota de aula e K é igual a k m/s" do contrário retornar: "K é igual a k"
